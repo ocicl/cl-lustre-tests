@@ -1,0 +1,10 @@
+* cl-lustre-tests
+
+A simple Common Lisp testing framework that focuses on usability and
+great reporting.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/renatoathaydes/cl-lustre-tests.git |
+| commit  | 0000000                                              |
+| systems | cl-lustre-tests                                      |
+|---------+------------------------------------------------------|
